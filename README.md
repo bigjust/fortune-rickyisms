@@ -1,7 +1,7 @@
 fortune-randyisms
 ===========
 
-fortune file collecting the various Randyisms from The Trailor Park Boys.
+fortune file collecting the various Randyisms from Trailor Park Boys.
 
 to make:
 
