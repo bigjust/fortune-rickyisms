@@ -1,8 +1,8 @@
-fortune-randyisms
+fortune-rickyisms
 ===========
 
-fortune file collecting the various Randyisms from Trailor Park Boys.
+fortune file collecting the various Rickyisms from Trailor Park Boys.
 
 to make:
 
-    strfile -c % randyisms randyisms.dat
+    strfile -c % rickyisms rickyisms.dat
